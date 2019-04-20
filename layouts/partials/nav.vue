@@ -1,6 +1,6 @@
 <template>
   <header>
-    <nuxt-link to="/" class="logo">Nuxty</nuxt-link>
+    <nuxt-link to="/" >Nuxty</nuxt-link>
     <nav>
       <ul>
         <li> <nuxt-link to="/">Home</nuxt-link></li>
@@ -20,11 +20,11 @@ export default {
 
 <style>
     header {
-      background: rgb(0,219,146);
+      background: rgb(112, 158, 201);
       display: grid;
       grid-template-columns: repeat(2, auto);
     }
-    .logo, li a {
+    a {
       padding: 1em 2em;
       display: block;
       text-transform: uppercase;

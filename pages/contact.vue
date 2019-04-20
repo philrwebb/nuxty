@@ -9,7 +9,15 @@
 <script>
 
 export default {
-
+  head() {
+    return {
+      title: 'Nuxt Contacts',
+      meta: [
+        {name: 'description', content: 'This is my contacts description here.'},
+        {name: 'keywords', content: 'contacts nuxt'},
+      ]
+    }
+  }
 }
 </script>
 

@@ -7,20 +7,18 @@
 </template>
 
 <script>
-
 export default {
   head() {
     return {
-      title: 'About Nuxt',
+      title: "Nuxt About",
       meta: [
-        {name: 'description', content: 'This is my about description here.'},
-        {name: 'keywords', content: 'about nuxt, nuxt info'},
+        { name: "description", content: "This is my about description here." },
+        { name: "keywords", content: "about nuxt, nuxt info" }
       ]
-    }
+    };
   }
-}
+};
 </script>
 
 <style>
-
 </style>
