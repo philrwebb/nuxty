@@ -52,6 +52,7 @@ export default {
   .textContainer {
     display: grid;
     grid-template-columns: 1fr;
+    grid-template-rows: minmax(300px, auto);
   }
   .textContainer p {
     padding: 0.5em;
