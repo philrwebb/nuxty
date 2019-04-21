@@ -2,7 +2,7 @@
   <section class="container">
     <h1>About our Nuxt's</h1>
     <p class="subheading">They're juicy and stuff</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit minus aperiam sed cum, voluptates fuga veniam alias ullam laudantium expedita nobis ut iure nesciunt quia dolores excepturi dolorem soluta exercitationem dolore, ex eius. Suscipit exercitationem voluptate explicabo hic sit vel! Perferendis repellendus aliquam quaerat, commodi, facilis ea architecto laboriosam repellat nam autem corporis dolorum cum mollitia consequatur laborum soluta totam ipsum expedita minus doloremque facere? Iusto quo necessitatibus voluptatibus aliquid recusandae repudiandae eum quae obcaecati, possimus odio reprehenderit ut placeat quam libero perferendis at. Incidunt eos optio illum atque, a temporibus id? Repudiandae odio fuga nisi, possimus id praesentium quidem.</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam omnis, iusto sit rem ex numquam vel enim praesentium laboriosam magni possimus minima sequi assumenda pariatur impedit similique hic vitae libero tenetur non nihil earum. Eos, quod sint! Quaerat alias suscipit minus consequuntur, modi recusandae culpa magni pariatur nobis quidem ad repellendus eum, ducimus dignissimos! Libero dicta inventore saepe. Est voluptatum quaerat eos ab magnam quidem dolorum quam eligendi asperiores, modi voluptatem perferendis sunt quasi temporibus rem repellat minus totam impedit ipsum at omnis blanditiis excepturi ullam. Modi pariatur magni praesentium, animi error rerum ratione in magnam exercitationem, et nam officiis.</p>
   </section>
 </template>
 
